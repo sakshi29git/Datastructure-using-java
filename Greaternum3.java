@@ -39,8 +39,3 @@ public class Greaternum3 {
 	}
 }
 
-/*Total time complexity-total conditional statement is 1
- * so time complexity is 
- * 
- * /
- */
