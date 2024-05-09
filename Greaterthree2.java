@@ -35,11 +35,3 @@ public class Greaterthree2 {
 
 }
 
-/*In this code we are comparing num1,num2 first which one greater will be stored in the max then compare
- * num3 with max, if c is grater then it will stored in max.
- * 
- * total time complexity- total condition statements two.
- * for best case=O(1)
- * worst case and average case=O(2)
- * 
- * */
